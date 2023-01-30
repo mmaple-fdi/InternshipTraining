@@ -7,7 +7,7 @@ Imports System.Security.Cryptography
 Imports System.Security.Cryptography.X509Certificates
 Imports System.Threading
 
-Module Program
+Module Programs
 
     Public Class Planets
 
@@ -470,7 +470,7 @@ Module Program
     End Class
 
 
-    Sub Main()
+    Sub Mains()
 
 
         Dim UI As New UserInterface()
